@@ -48,4 +48,10 @@ body{
     border: solid #E9A6A6 3px;
     box-shadow: #864879 3px 3px 5px 0px;
     padding: 5px;
+    max-width: 500px;
+    /* max-height: 400px; */
+  }
+
+  .txt{
+    border-left : solid #E9A6A6 3px;
   }
